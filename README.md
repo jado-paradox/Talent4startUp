@@ -15,6 +15,8 @@ I’m skillful to 3D printing because I attended one month trainings (in 2023) p
 I’m knowledgeable to Artificial Intelligent(AI), Internet of Things (IoT) and industry 4.0 because I attended ROBOTICS COMMUNITY OF PRACTICE event held at Zora Bot Africa on 26th October 2023.
 I’m terrific skillful in CAD software especially solidworks and MatLab, I have a budge on linkedIn of solidworks passed quizzes. And here I am able to model, simulate and make optimization.
 
+Additionally, I am doing on a project about a modernized irigation, the progress will be shown right here.
+
 
 
 
