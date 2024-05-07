@@ -83,7 +83,7 @@ Dashboard: Displays sensor data, system status, and control options.
     in additionally we can work together for both 
 
    NDAGIJIMANA JEAN DE DIEU 
-   GITHUB LINK:  [jean de dieu Repository](https://github.com/jado-paradox/Talent4startUp/blob/25f0e179f1b9954fbaed34c35b656c914f6db1ae/README.md)
+   GITHUB LINK:  [jean de dieu Repository](https://jado-paradox.github.io/Talent4startUp/)
    EMAIL: jadojadoson@gmail.com
    MUKESHIMANA YVETTE
    GITHUB LINK: [Yvette Repository](https://yvettemukeshimana2.github.io/techup_startup/)
